@@ -1,0 +1,5 @@
+{
+  "name": "Contract Work Tool",
+  "description": "A tool to manage contract work, including employees, cut creation with automatic bundling, and work assignments with overlap validation.",
+  "requestFramePermissions": []
+}
